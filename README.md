@@ -3,11 +3,7 @@
 **Web Developer** · Full-Stack  
 Russia · [@sp28337](https://t.me/sp28337)
 
-<div>
-  <div style="width: 300px; height: 300px; border-radius: 50%; overflow: hidden; margin: 10px auto">
-    <img src="./profile-image.jpg" alt="Pavel Tarakanov" style="width: 100%; height: 100%; object-fit: cover;" />
-  </div>
-</div>
+<img src="./photo.jpg" height="500px" alt="Pavel Tarakanov"/>
 
 
 ## About
@@ -40,10 +36,17 @@ Self-taught developer focused on practical implementations and end-to-end projec
 
 | Category | Technologies |
 |----------|--------------|
-| **Backend** | Python, FastAPI, PostgreSQL, SQLAlchemy, Alembic, Redis, Celery, RabbitMQ, Pydantic, Pydantic-settings, Asyncio |
-| **Frontend** | HTML, CSS, JavaScript/TypeScript, React, Next.js, Astro, Redux, Tailwind CSS, Vite |
-| **DevOps** | Docker, Docker Compose, Nginx, PM2, Systemd, VPS, SSH, Linux |
-| **Tools** | Git/GitHub, Poetry, uv, pnpm, pytest, CI/CD,|
+| **Backend** | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" alt="FastAPI" width="40" height="40"/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" height="40"/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg" alt="SQLite" width="40" height="40"/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlalchemy/sqlalchemy-original.svg" alt="SQLAlchemy" width="40" height="40"/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" alt="Redis" width="40" height="40"/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/poetry/poetry-original.svg" alt="Poetry" width="40" height="40"/>
+||Python, FastAPI, PostgreSQL, SQLite, SQLAlchemy, Alembic, Redis, Pydantic, Poetry, uv|
+| **Frontend** | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40"/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pnpm/pnpm-original.svg" alt="pnpm" width="40" height="40"/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40" height="40"/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="Next.js" width="40" height="40"/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/astro/astro-original.svg" alt="Astro.js" width="40" height="40"/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vite/vite-original.svg" alt="Vite" width="40" height="40"/>
+||HTML, CSS, JavaScript/TypeScript, Node.js, pnpm, React, Next.js, Tailwind CSS, Astro, Vite|
+| **DevOps** |<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/debian/debian-original.svg" alt="Debian" width="40" height="40"/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-original.svg" alt="Ubuntu" width="40" height="40"/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="Nginx" width="40" height="40"/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pm2/pm2-original.svg" alt="PM2" width="40" height="40"/> 
+||Linux, GitHub, Docker, Docker Compose, Nginx, PM2|
+| **Tools** |<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40"/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vim/vim-original.svg" alt="Git" width="40" height="40"/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code" width="40" height="40"/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pycharm/pycharm-original.svg" alt="PyCharm" width="40" height="40"/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-original.svg" alt="Photoshop" width="40" height="40"/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" alt="SQLAlchemy" width="40" height="40"/>
+||Git, vim, VS Code, PyCharm, Photoshop, Figma|
+
+
+
 
 
 ## Featured Projects
