@@ -3,6 +3,12 @@
 **Web Developer** · Full-Stack  
 Russia · [@sp28337](https://t.me/sp28337)
 
+<div>
+  <div style="width: 300px; height: 300px; border-radius: 50%; overflow: hidden; margin: 10px auto">
+    <img src="./profile-image.jpg" alt="Pavel Tarakanov" style="width: 100%; height: 100%; object-fit: cover;" />
+  </div>
+</div>
+
 
 ## About
 
