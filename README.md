@@ -62,19 +62,20 @@ Cryptocurrency options price tracker | Python · FastAPI · WebSocket · Postgre
 Real-time tracking of cryptocurrency options prices from Deribit exchange using WebSocket API.
 
 ### [Union of Military Lawyers](https://voenniyurist52.ru)
-Landing page | Astro · TailwindCSS · FastAPI
+Landing page | Astro · TailwindCSS · FastAPI · SSG
 
 Responsive landing page originally built with React, refactored to Astro for static site generation. Includes email notification service and systemd deployment.
 
-<!-- ### [Manicel](https://manicel.ru)
-E-commerce platform | Next.js · CSS modules · FastAPI · PostgreSQL · Nginx · Systemd
-
-Production-ready full-stack application featuring PostgreSQL database design, and dynamic product search. Deployed on VPS with Nginx and systemd. -->
-
 ### [Weather App](https://github.com/sp28337/weather)
-Forecast application | FastAPI · Jinja2 · SQLite
+Forecast application | FastAPI · Jinja2 · SQLite · SSR
 
 Backend HTTP server with a permanent history of user actions via cookies, tracking of request statistics and generation of HTML pages.
+
+### [Manicel](https://manicel.sp28337.site)
+E-commerce platform | Next.js · SSG · CSS modules · FastAPI · PostgreSQL · Nginx · Systemd
+
+My first pet-project. Deployed on VPS with Nginx and systemd.
+
 
 ## About Me
 Background
